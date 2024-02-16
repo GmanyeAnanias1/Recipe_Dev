@@ -10,7 +10,7 @@ body {
     color: aliceblue;
     padding: 40px;
     width: 40%;
-    height: 74rem;
+    height: 77rem;
     box-shadow: 20px;
 }
 
@@ -25,7 +25,7 @@ body {
     background-color: white;
     margin-top: 3rem;
     width: 83%;
-    height: 74rem;
+    height: 77rem;
     margin: auto;
     border-radius: 7px;
     display: block;
@@ -33,7 +33,9 @@ body {
 
 @media (max-width:600px) {
     .card{
-        width: 70%;
+        width: 85%;
+        height: 77rem;
+        margin-top: -2rem;
         
         
     }
